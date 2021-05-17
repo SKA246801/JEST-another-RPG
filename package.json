@@ -1,0 +1,23 @@
+{
+  "name": "JEST-another-RPG",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKA246801/JEST-another-RPG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SKA246801/JEST-another-RPG/issues"
+  },
+  "homepage": "https://github.com/SKA246801/JEST-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
